@@ -6,19 +6,19 @@
     <img src="https://dev.azure.com/Comfort-Order/DRY/_git/Readme-Template?path=%2Fimages%2Flogo.png&version=GBmaster">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">DRY</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    Overview
     <br />
-    <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
+    <a href="https://dev.azure.com/Comfort-Order/DRY"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo">View Demo</a>
+    <a href="https://dev.azure.com/Comfort-Order/DRY">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Report Bug</a>
+    <a href="https://dev.azure.com/Comfort-Order/DRY/_workitems/create/Bug">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Request Feature</a>
+    <a href="https://dev.azure.com/Comfort-Order/DRY/_workitems/create/Feature">Request Feature</a>
   </p>
 </p>
 
@@ -58,9 +58,8 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 
-- npm
+- npm 
 
 ```sh
 npm install npm@latest -g
@@ -71,7 +70,7 @@ npm install npm@latest -g
 1. Clone the repo
 
 ```sh
-git clone https://github.com/github_username/repo.git
+git clone https://Comfort-Order@dev.azure.com/Comfort-Order/DRY/_git/Dry
 ```
 
 2. Install NPM packages
@@ -84,15 +83,19 @@ npm install
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources. -->
+1. Start Storybook
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+```sh
+npm run storybook
+```
+
 
 <!-- ROADMAP -->
 
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
+See the [open issues](https://dev.azure.com/Comfort-Order/DRY/_boards/board/t/DRY%20Team/Backlog%20items) for a list of proposed features (and known issues).
 
 <!-- LICENSE -->
 
@@ -104,9 +107,9 @@ Distributed under the Proprietary License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Daniel Hernandez - [Gmail](danielhernandez@comfortorder.com) - email
 
-Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
+Project Link: [https://dev.azure.com/Comfort-Order/DRY](https://dev.azure.com/Comfort-Order/DRY)
 
 
 <!-- Resources -->
