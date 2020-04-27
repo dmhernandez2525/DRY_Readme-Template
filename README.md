@@ -41,7 +41,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![product-screenshot](https://dev.azure.com/Comfort-Order/DRY/_git/Readme-Template?path=%2Fimages%2FDryDocs.png&version=GBmaster)
 
 
 ### Built With
