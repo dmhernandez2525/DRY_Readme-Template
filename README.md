@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://dev.azure.com/Comfort-Order/DRY/_git/Readme-Template?path=%2Fimages%2Flogo.png&version=GBmaster">
   </a>
 
   <h3 align="center">YOUR_TITLE</h3>
