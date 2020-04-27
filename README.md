@@ -1,21 +1,3 @@
-<!--
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo, twitter_handle, email
--->
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Proprietary License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -53,7 +35,7 @@
 - [Roadmap](#roadmap)
 - [License](#license)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+- [Resources](#resources)
 
 <!-- ABOUT THE PROJECT -->
 
@@ -61,9 +43,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
 
 ### Built With
 
@@ -129,7 +108,22 @@ Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
 Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[product-screenshot]: images/screenshot.png
+<!-- Resources -->
+
+## Resources
+
+- [material](https://material.io/components)
+- [material-ui](https://material-ui.com/components/box/)
+- [Zeplen](https://app.zeplin.io/project/5ea6d579b0189824e6da8f37)
+
+- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+- [Img Shields](https://shields.io)
+- [GitHub Pages](https://pages.github.com)
+- [Animate.css](https://daneden.github.io/animate.css)
+- [Loaders.css](https://connoratherton.com/loaders)
+- [Slick Carousel](https://kenwheeler.github.io/slick)
+- [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
+- [Sticky Kit](http://leafo.net/sticky-kit)
+- [JVectorMap](http://jvectormap.com)
+- [Font Awesome](https://fontawesome.com)
