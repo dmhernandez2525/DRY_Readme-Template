@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo">
-    <img src="https://dev.azure.com/Comfort-Order/DRY/_git/Readme-Template?path=%2Fimages%2Flogo.png&version=GBmaster">
+    <img src="https://dev.azure.com/Comfort-Order/c43cf749-c586-4aea-9214-805513d42614/_apis/git/repositories/a346f50c-5095-48be-ac70-6fd1b8ee98f0/items?path=%2Fimages%2FComfortOrderLogo.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=master&resolveLfs=true&%24format=octetStream&api-version=5.0" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">DRY</h3>
@@ -42,7 +42,7 @@
 ## About The Project
 
 ![product-screenshot](https://dev.azure.com/Comfort-Order/DRY/_git/Readme-Template?path=%2Fimages%2FDryDocs.png&version=GBmaster)
-
+<img src="https://dev.azure.com/Comfort-Order/DRY/_git/Readme-Template?path=%2Fimages%2FDryDocs.png&version=GBmaster" alt="Logo" width="80" height="80">
 
 ### Built With
 
