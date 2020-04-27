@@ -41,8 +41,8 @@
 
 ## About The Project
 
-![product-screenshot](https://dev.azure.com/Comfort-Order/DRY/_git/Readme-Template?path=%2Fimages%2FDryDocs.png&version=GBmaster)
-<img src="https://dev.azure.com/Comfort-Order/DRY/_git/Readme-Template?path=%2Fimages%2FDryDocs.png&version=GBmaster" alt="Logo" width="80" height="80">
+![product-screenshot](https://files.slack.com/files-pri/TUMHHV4KB-F012L8D7W4A/screen_shot_2020-04-27_at_7.29.11_am.png)
+
 
 ### Built With
 
