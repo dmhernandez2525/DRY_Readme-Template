@@ -41,7 +41,7 @@
 
 ## About The Project
 
-![product-screenshot](https://files.slack.com/files-pri/TUMHHV4KB-F012L8D7W4A/screen_shot_2020-04-27_at_7.29.11_am.png)
+![product-screenshot](https://dev.azure.com/Comfort-Order/Comfort%20Order%20Business/_git/Comfort%20Order%20Business?path=%2FScreen.png&version=GBmaster)
 
 
 ### Built With
