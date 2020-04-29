@@ -41,7 +41,8 @@
 
 ## About The Project
 
-![product-screenshot](https://dev.azure.com/Comfort-Order/Comfort%20Order%20Business/_git/Comfort%20Order%20Business?path=%2FheaderItemPicker.png&version=GBmaster)
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
 ### Built With
@@ -130,3 +131,5 @@ Project Link: [https://dev.azure.com/Comfort-Order/DRY](https://dev.azure.com/Co
 - [Sticky Kit](http://leafo.net/sticky-kit)
 - [JVectorMap](http://jvectormap.com)
 - [Font Awesome](https://fontawesome.com)
+
+[product-screenshot]: images/DryDocs.png
